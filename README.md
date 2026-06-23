@@ -75,14 +75,6 @@ ServletContext（アプリケーションスコープ）に投稿データを保
 * Eclipse IDE
 
 
-## セットアップ手順
-
-1. リポジトリをclone
-2. EclipseにImport
-3. Tomcat9を設定
-4. サーバー起動
-5. http://localhost:8080/dokotsubu/ にブラウザでリクエスト、またはEclipseで動的Webプロジェクト「dokotsubu」を選択・実行
-
 ## 工夫した点
 
 * MVCモデルを意識して処理を分離
