@@ -29,11 +29,10 @@ Servlet/JSPの知識を活用し、MVCモデルに沿って実装しています
 ### ログイン画面
 ![ログイン画面](docs/images/login.png)
 
-### つぶやき一覧画面
+### 投稿/つぶやき一覧画面
 ![一覧画面](docs/images/tweet-list.png)
 
-### 投稿画面
-![投稿画面](docs/images/post.png)
+
 
 
 ## システム構成
